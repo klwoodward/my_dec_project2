@@ -1,0 +1,5 @@
+locations:
+- code_source:
+    module_name: quickstart_etl.definitions
+  location_name: my_dec_project2
+  working_directory: ./src/
